@@ -413,6 +413,8 @@ td:nth-child(even) {
   }
   .text h1{
     font-size: 23px !important;
+    width: 97%;
+    margin-left: 5px;
   }
   .text p {
     padding: 4px !important;
